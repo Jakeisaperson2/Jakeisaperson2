@@ -1,8 +1,8 @@
-# Hi, I'm Jake 👋
+# Welcome to my Neglected Github
 
 ### Exploring the possibilities of AI coding tools in healthcare applications
 
-I build proof-of-concept tools for life sciences and academic medicine, using AI coding assistants to go from idea to working software quickly. My focus is on the business side of research: finding funding, connecting researchers with industry partners, and tracking collaborations from first contact to signed agreement.
+I am building proof of concept tools for various problems in healthcare. Mainly using this as a way to explore healthcare coding tools and teach myself. New projects coming soon. 
 
 ## 🔬 Projects
 
